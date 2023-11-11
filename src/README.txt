@@ -1,0 +1,3 @@
+lightfield.py contains scripts for producing results in part 1. For saving runtime, some of the steps use results that are saved in previous steps. Focal-aperture stack images in the /data folder should first be copied to /src folder before running the script. Parameters including focal depth (line 33), aperture size(controlled by line 35), and the two sigma's for the gaussian blurring (line 61-62) can be changed to produce different results.
+
+Part 3 is unattempted.
